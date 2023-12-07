@@ -1,0 +1,462 @@
+{
+    "monit": [
+        "monitoring"
+    ],
+    "em": [
+        "theorem",
+        "linksproblem",
+        "problem",
+        "them",
+        "selectedtheorem",
+        "system",
+        "subproblem",
+        "employ",
+        "employed"
+    ],
+    "cent": [
+        "center"
+    ],
+    "pen": [
+        "open",
+        "pengthe"
+    ],
+    "lim": [
+        "limitations",
+        "limitation",
+        "limicrosoft"
+    ],
+    "loc": [
+        "localize",
+        "localizationcontroller",
+        "localizationfirst",
+        "localized",
+        "locate",
+        "location",
+        "localizing",
+        "localization",
+        "localizationwhere",
+        "locations"
+    ],
+    "fail": [
+        "failurestimelinessoverheadnesyespingmesh",
+        "failed",
+        "failures",
+        "failure"
+    ],
+    "man": [
+        "manifested",
+        "many"
+    ],
+    "main": [
+        "maintain",
+        "mainly",
+        "maintainsecond"
+    ],
+    "mini": [
+        "minimal",
+        "minimum",
+        "minimize",
+        "minimizes",
+        "minimizing"
+    ],
+    "head": [
+        "overhead",
+        "header"
+    ],
+    "car": [
+        "card",
+        "carry",
+        "carefully"
+    ],
+    "cert": [
+        "tracert",
+        "fbtracert"
+    ],
+    "part": [
+        "partition",
+        "partitioned",
+        "particular"
+    ],
+    "matr": [
+        "matrix"
+    ],
+    "rage": [
+        "acoverage",
+        "leverage",
+        "\u03b1coverage",
+        "limitationacoverage",
+        "ocoverage",
+        "coverage"
+    ],
+    "gree": [
+        "greedy",
+        "green"
+    ],
+    "lect": [
+        "select"
+    ],
+    "ev": [
+        "even",
+        "eventually",
+        "evaluation",
+        "evenly",
+        "evaluate",
+        "evenness"
+    ],
+    "min": [
+        "minutesswitch",
+        "minutes",
+        "minheap"
+    ],
+    "mon": [
+        "month",
+        "monotone",
+        "common"
+    ],
+    "crease": [
+        "increase"
+    ],
+    "oper": [
+        "operatorsrapid",
+        "operator"
+    ],
+    "hav": [
+        "have"
+    ],
+    "hibit": [
+        "prohibit"
+    ],
+    "her": [
+        "higher",
+        "either",
+        "other",
+        "further",
+        "rather",
+        "another",
+        "together"
+    ],
+    "pass": [
+        "passive",
+        "passing"
+    ],
+    "hes": [
+        "approaches",
+        "dispatches",
+        "switches"
+    ],
+    "quer": [
+        "querying",
+        "queries"
+    ],
+    "cur": [
+        "occur",
+        "current"
+    ],
+    "fault": [
+        "faulty",
+        "faults",
+        "faulttolerant"
+    ],
+    "du": [
+        "due"
+    ],
+    "act": [
+        "action",
+        "active",
+        "exact"
+    ],
+    "rad": [
+        "netnorad",
+        "radix"
+    ],
+    "capt": [
+        "captured",
+        "capture"
+    ],
+    "center": [
+        "centers"
+    ],
+    "arch": [
+        "search",
+        "architecturedetector"
+    ],
+    "fil": [
+        "file"
+    ],
+    "port": [
+        "report",
+        "support"
+    ],
+    "nect": [
+        "connect"
+    ],
+    "ment": [
+        "implement",
+        "management"
+    ],
+    "mis": [
+        "misconfigurations"
+    ],
+    "laps": [
+        "flaps"
+    ],
+    "am": [
+        "among"
+    ],
+    "lat": [
+        "later",
+        "latency"
+    ],
+    "ject": [
+        "inject"
+    ],
+    "ban": [
+        "bandwidth"
+    ],
+    "par": [
+        "parallel",
+        "parallelobservation"
+    ],
+    "not": [
+        "note",
+        "cannot"
+    ],
+    "pens": [
+        "happens"
+    ],
+    "cult": [
+        "difficult"
+    ],
+    "di": [
+        "diagnosis",
+        "distributed",
+        "divided",
+        "discovery",
+        "discussed",
+        "direction",
+        "differentiate",
+        "diagnosing",
+        "different",
+        "diagnoser"
+    ],
+    "point": [
+        "pinpoint"
+    ],
+    "idea": [
+        "ideally"
+    ],
+    "quest": [
+        "question"
+    ],
+    "logy": [
+        "topology"
+    ],
+    "cret": [
+        "secret"
+    ],
+    "pon": [
+        "upon",
+        "weapon"
+    ],
+    "ced": [
+        "sourced",
+        "produced",
+        "reduced"
+    ],
+    "mot": [
+        "motivationdcns"
+    ],
+    "ple": [
+        "couple",
+        "purple",
+        "multiple"
+    ],
+    "ample": [
+        "example"
+    ],
+    "clos": [
+        "close",
+        "closely"
+    ],
+    "meas": [
+        "measurements",
+        "measure"
+    ],
+    "ply": [
+        "apply"
+    ],
+    "optim": [
+        "optimization",
+        "optimizations",
+        "optimum"
+    ],
+    "char": [
+        "characteristics"
+    ],
+    "peri": [
+        "periodically"
+    ],
+    "log": [
+        "logs",
+        "syslog",
+        "logarithm",
+        "logsminimizing",
+        "logged",
+        "logical"
+    ],
+    "err": [
+        "errors"
+    ],
+    "cit": [
+        "explicit",
+        "deficit"
+    ],
+    "mod": [
+        "modify",
+        "module"
+    ],
+    "base": [
+        "database",
+        "based"
+    ],
+    "opt": [
+        "adopt"
+    ],
+    "graph": [
+        "subgraph",
+        "graphs",
+        "paragraph",
+        "scoress\u03b2graph"
+    ],
+    "place": [
+        "places"
+    ],
+    "cant": [
+        "significant"
+    ],
+    "alt": [
+        "although"
+    ],
+    "fig": [
+        "figure"
+    ],
+    "fect": [
+        "affect"
+    ],
+    "arm": [
+        "postalarm"
+    ],
+    "cas": [
+        "cases",
+        "case"
+    ],
+    "av": [
+        "available",
+        "avoiding"
+    ],
+    "fic": [
+        "traffic"
+    ],
+    "maj": [
+        "majority"
+    ],
+    "fest": [
+        "manifest"
+    ],
+    "lig": [
+        "lightweight"
+    ],
+    "cycl": [
+        "cycle",
+        "cycles"
+    ],
+    "nex": [
+        "next"
+    ],
+    "cap": [
+        "capability"
+    ],
+    "form": [
+        "format"
+    ],
+    "long": [
+        "along"
+    ],
+    "acro": [
+        "across"
+    ],
+    "gen": [
+        "general"
+    ],
+    "cre": [
+        "create",
+        "created"
+    ],
+    "fix": [
+        "fixing"
+    ],
+    "rap": [
+        "wrap"
+    ],
+    "curs": [
+        "incurs"
+    ],
+    "ag": [
+        "aggregated"
+    ],
+    "fin": [
+        "finish",
+        "find",
+        "finding"
+    ],
+    "art": [
+        "heart"
+    ],
+    "bel": [
+        "belongs"
+    ],
+    "crit": [
+        "criterion"
+    ],
+    "mus": [
+        "must"
+    ],
+    "gest": [
+        "largest"
+    ],
+    "ori": [
+        "oring"
+    ],
+    "orig": [
+        "original"
+    ],
+    "line": [
+        "lines",
+        "linear"
+    ],
+    "cand": [
+        "candidate"
+    ],
+    "empt": [
+        "empty",
+        "emptyhere"
+    ],
+    "equ": [
+        "equals"
+    ],
+    "nat": [
+        "natural"
+    ],
+    "dent": [
+        "independent"
+    ],
+    "don": [
+        "done"
+    ],
+    "mar": [
+        "marginal"
+    ],
+    "memor": [
+        "memory"
+    ]
+}

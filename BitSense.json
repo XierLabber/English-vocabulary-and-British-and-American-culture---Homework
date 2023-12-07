@@ -1,0 +1,462 @@
+{
+    "optim": [
+        "optimization",
+        "optimize",
+        "optimizationbased"
+    ],
+    "di": [
+        "diagnosis",
+        "distrihuted",
+        "divisions",
+        "distinct",
+        "distribution",
+        "diamond",
+        "directly",
+        "differs",
+        "different",
+        "diversity",
+        "digit",
+        "digital",
+        "diverse",
+        "ding",
+        "distributions"
+    ],
+    "act": [
+        "universityabstract",
+        "actually",
+        "acts",
+        "intact"
+    ],
+    "hav": [
+        "have"
+    ],
+    "meas": [
+        "measurement",
+        "measure",
+        "measurementhowever"
+    ],
+    "fix": [
+        "fixedsize"
+    ],
+    "her": [
+        "higher",
+        "either",
+        "whether",
+        "other",
+        "further"
+    ],
+    "main": [
+        "maintain",
+        "remain",
+        "maintains"
+    ],
+    "ply": [
+        "apply"
+    ],
+    "fic": [
+        "traffic",
+        "specific"
+    ],
+    "integr": [
+        "integrated",
+        "integrate",
+        "integrates",
+        "integrating",
+        "integrable"
+    ],
+    "rage": [
+        "storage",
+        "average",
+        "leverage"
+    ],
+    "press": [
+        "compress"
+    ],
+    "mod": [
+        "model",
+        "modify",
+        "modifies"
+    ],
+    "meter": [
+        "parameter"
+    ],
+    "err": [
+        "error"
+    ],
+    "plat": [
+        "platform"
+    ],
+    "memor": [
+        "memory"
+    ],
+    "head": [
+        "overhead",
+        "header"
+    ],
+    "art": [
+        "stateoftheart",
+        "valstart",
+        "start"
+    ],
+    "form": [
+        "uniform",
+        "formatrui",
+        "forming",
+        "transform",
+        "forms"
+    ],
+    "man": [
+        "manipulates",
+        "manipulating",
+        "many"
+    ],
+    "ment": [
+        "requirement",
+        "increment",
+        "deployment",
+        "segment",
+        "management",
+        "replacement",
+        "implement"
+    ],
+    "char": [
+        "characteristics",
+        "characterize"
+    ],
+    "dynam": [
+        "dynamics"
+    ],
+    "am": [
+        "sram",
+        "among",
+        "sramdram",
+        "dram",
+        "sramtodram"
+    ],
+    "extr": [
+        "extracts",
+        "extra"
+    ],
+    "ple": [
+        "tuple",
+        "multiple"
+    ],
+    "hes": [
+        "overheadsketches",
+        "hashes",
+        "caches",
+        "attaches",
+        "sketches"
+    ],
+    "lect": [
+        "select",
+        "ihiselect"
+    ],
+    "em": [
+        "problem",
+        "them",
+        "employ"
+    ],
+    "quer": [
+        "queries",
+        "querying",
+        "queried",
+        "query"
+    ],
+    "base": [
+        "based"
+    ],
+    "mus": [
+        "must"
+    ],
+    "lev": [
+        "leverages",
+        "level"
+    ],
+    "lim": [
+        "limited",
+        "limitations"
+    ],
+    "du": [
+        "due"
+    ],
+    "fer": [
+        "refer",
+        "suffer"
+    ],
+    "cit": [
+        "citation",
+        "implicit"
+    ],
+    "ag": [
+        "aggravates",
+        "against"
+    ],
+    "fract": [
+        "fraction"
+    ],
+    "prim": [
+        "primarily"
+    ],
+    "ev": [
+        "even",
+        "every"
+    ],
+    "gen": [
+        "generalize",
+        "generally"
+    ],
+    "crit": [
+        "critical"
+    ],
+    "par": [
+        "part",
+        "parameters",
+        "param"
+    ],
+    "ora": [
+        "oranted"
+    ],
+    "not": [
+        "notice",
+        "note",
+        "cannot"
+    ],
+    "cred": [
+        "credit"
+    ],
+    "licen": [
+        "licensed"
+    ],
+    "orig": [
+        "original"
+    ],
+    "cord": [
+        "record"
+    ],
+    "curs": [
+        "incurs",
+        "occurs"
+    ],
+    "mini": [
+        "minimal"
+    ],
+    "fort": [
+        "fortunately"
+    ],
+    "av": [
+        "available",
+        "avoid"
+    ],
+    "fin": [
+        "finer",
+        "fingerprints",
+        "finally",
+        "final",
+        "fingerprint",
+        "fine"
+    ],
+    "min": [
+        "countmin",
+        "vijargmin",
+        "argmin"
+    ],
+    "ni": [
+        "nine",
+        "nitrosketch"
+    ],
+    "mon": [
+        "univmon",
+        "common"
+    ],
+    "fig": [
+        "figure"
+    ],
+    "line": [
+        "linear",
+        "linearly",
+        "online"
+    ],
+    "log": [
+        "logically",
+        "loglog"
+    ],
+    "cur": [
+        "incur"
+    ],
+    "dem": [
+        "demonstrate"
+    ],
+    "ample": [
+        "example",
+        "sample",
+        "sampleexample"
+    ],
+    "merg": [
+        "merging",
+        "merge"
+    ],
+    "cas": [
+        "case",
+        "cascading"
+    ],
+    "fect": [
+        "effect"
+    ],
+    "rap": [
+        "rapid",
+        "wrap"
+    ],
+    "pass": [
+        "surpass"
+    ],
+    "mount": [
+        "amount"
+    ],
+    "fac": [
+        "facilitate",
+        "fact"
+    ],
+    "magn": [
+        "magnitude"
+    ],
+    "bel": [
+        "below"
+    ],
+    "dom": [
+        "random"
+    ],
+    "nat": [
+        "nature"
+    ],
+    "flu": [
+        "flushes"
+    ],
+    "draw": [
+        "drawbacks",
+        "drawback"
+    ],
+    "cap": [
+        "capacity"
+    ],
+    "dur": [
+        "during"
+    ],
+    "cant": [
+        "significant"
+    ],
+    "empt": [
+        "empty",
+        "attempt"
+    ],
+    "long": [
+        "longer"
+    ],
+    "monit": [
+        "monitoring"
+    ],
+    "gran": [
+        "granularity"
+    ],
+    "mark": [
+        "benchmark"
+    ],
+    "ert": [
+        "insert"
+    ],
+    "capt": [
+        "captured"
+    ],
+    "part": [
+        "parts"
+    ],
+    "braid": [
+        "braids"
+    ],
+    "grav": [
+        "grave"
+    ],
+    "nex": [
+        "next"
+    ],
+    "mar": [
+        "mark"
+    ],
+    "fil": [
+        "filters"
+    ],
+    "car": [
+        "carry"
+    ],
+    "med": [
+        "transformed",
+        "planetransformed"
+    ],
+    "arch": [
+        "architecture"
+    ],
+    "libr": [
+        "library"
+    ],
+    "bas": [
+        "basic"
+    ],
+    "oper": [
+        "operations"
+    ],
+    "plex": [
+        "complex"
+    ],
+    "poten": [
+        "potential"
+    ],
+    "equi": [
+        "equip"
+    ],
+    "lus": [
+        "plus"
+    ],
+    "cent": [
+        "recent"
+    ],
+    "peri": [
+        "periodically"
+    ],
+    "opt": [
+        "adopt"
+    ],
+    "alt": [
+        "although"
+    ],
+    "langu": [
+        "language"
+    ],
+    "matr": [
+        "matrices"
+    ],
+    "hor": [
+        "horizontally"
+    ],
+    "ali": [
+        "aligned"
+    ],
+    "ced": [
+        "comparisonsreduced"
+    ],
+    "liter": [
+        "literature"
+    ],
+    "crease": [
+        "decrease",
+        "increase"
+    ],
+    "cil": [
+        "cicil"
+    ],
+    "equ": [
+        "equals"
+    ],
+    "ped": [
+        "mapped"
+    ]
+}

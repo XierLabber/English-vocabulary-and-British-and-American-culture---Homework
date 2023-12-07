@@ -1,0 +1,449 @@
+{
+    "journ": [
+        "journey",
+        "sojourn"
+    ],
+    "fil": [
+        "fills",
+        "filled"
+    ],
+    "arm": [
+        "warm",
+        "alarm"
+    ],
+    "art": [
+        "artistry",
+        "heart",
+        "start"
+    ],
+    "fin": [
+        "finale",
+        "finding",
+        "find",
+        "final"
+    ],
+    "head": [
+        "ahead"
+    ],
+    "cit": [
+        "city",
+        "cityscapes",
+        "cityscape",
+        "citys"
+    ],
+    "place": [
+        "workplace"
+    ],
+    "di": [
+        "discussions",
+        "discovers",
+        "dive",
+        "distinct",
+        "dinner",
+        "distant",
+        "dimension",
+        "different",
+        "dish",
+        "diversity",
+        "diverse",
+        "dialogues"
+    ],
+    "ment": [
+        "entanglement",
+        "moment",
+        "replenishment",
+        "segment",
+        "testament",
+        "commencement",
+        "mentors",
+        "acknowledgment",
+        "accomplishment",
+        "fulfillment",
+        "movement",
+        "pavement",
+        "environment"
+    ],
+    "mon": [
+        "monuments",
+        "common"
+    ],
+    "lun": [
+        "lunchtime"
+    ],
+    "min": [
+        "mind"
+    ],
+    "her": [
+        "whether",
+        "usher",
+        "together"
+    ],
+    "cre": [
+        "crescendo",
+        "creativity",
+        "create",
+        "creative",
+        "crescendos",
+        "creating"
+    ],
+    "ev": [
+        "even",
+        "evolve",
+        "evolving",
+        "every",
+        "evening",
+        "everything",
+        "evolution",
+        "evolves",
+        "evenings"
+    ],
+    "nect": [
+        "connect"
+    ],
+    "ply": [
+        "simply"
+    ],
+    "par": [
+        "park"
+    ],
+    "grat": [
+        "gratitude"
+    ],
+    "ple": [
+        "simple"
+    ],
+    "pass": [
+        "passion",
+        "passions",
+        "passage",
+        "passersby"
+    ],
+    "em": [
+        "system",
+        "emerge",
+        "emergence",
+        "emitted",
+        "embarking",
+        "emphasizing",
+        "emerges",
+        "embracing",
+        "embark",
+        "requiem"
+    ],
+    "chron": [
+        "chronicle",
+        "chronicles"
+    ],
+    "extr": [
+        "extraordinary"
+    ],
+    "ordin": [
+        "ordinary"
+    ],
+    "memor": [
+        "memories"
+    ],
+    "cur": [
+        "curiosities",
+        "curtains",
+        "curiosity",
+        "curtain"
+    ],
+    "gree": [
+        "greet"
+    ],
+    "cred": [
+        "sacred"
+    ],
+    "pon": [
+        "upon"
+    ],
+    "fic": [
+        "traffic"
+    ],
+    "ban": [
+        "urban"
+    ],
+    "quir": [
+        "quirks"
+    ],
+    "char": [
+        "charms",
+        "characters",
+        "character"
+    ],
+    "loc": [
+        "local"
+    ],
+    "cad": [
+        "cadence"
+    ],
+    "am": [
+        "amid",
+        "amidst",
+        "ambiance",
+        "dream"
+    ],
+    "cent": [
+        "center",
+        "effervescent"
+    ],
+    "nat": [
+        "nature",
+        "natures"
+    ],
+    "ced": [
+        "embraced"
+    ],
+    "gress": [
+        "progress"
+    ],
+    "magn": [
+        "magnanimous",
+        "magnificent"
+    ],
+    "not": [
+        "note",
+        "notes"
+    ],
+    "mun": [
+        "mundane"
+    ],
+    "anti": [
+        "anticipation"
+    ],
+    "lig": [
+        "light"
+    ],
+    "ag": [
+        "against"
+    ],
+    "dynam": [
+        "dynamic",
+        "dynamics"
+    ],
+    "nav": [
+        "navigating",
+        "navigates"
+    ],
+    "puls": [
+        "pulse"
+    ],
+    "mark": [
+        "markets"
+    ],
+    "arch": [
+        "architectural"
+    ],
+    "mar": [
+        "marvels"
+    ],
+    "idio": [
+        "idiosyncrasies"
+    ],
+    "mus": [
+        "musical",
+        "musings"
+    ],
+    "hes": [
+        "reaches"
+    ],
+    "act": [
+        "impact",
+        "activity",
+        "activities"
+    ],
+    "gran": [
+        "grand",
+        "grandeur"
+    ],
+    "brace": [
+        "embrace"
+    ],
+    "ni": [
+        "night"
+    ],
+    "port": [
+        "portrait"
+    ],
+    "hum": [
+        "humanity",
+        "human"
+    ],
+    "quiet": [
+        "quieter",
+        "quietude"
+    ],
+    "cas": [
+        "casts"
+    ],
+    "flu": [
+        "flutter"
+    ],
+    "man": [
+        "maneuvers"
+    ],
+    "form": [
+        "perform",
+        "forms",
+        "forming",
+        "formation"
+    ],
+    "noct": [
+        "nocturnal",
+        "nocturne"
+    ],
+    "found": [
+        "profound"
+    ],
+    "ali": [
+        "alike",
+        "aligning"
+    ],
+    "polis": [
+        "metropolis"
+    ],
+    "mot": [
+        "motif"
+    ],
+    "clar": [
+        "clarity"
+    ],
+    "fac": [
+        "facet"
+    ],
+    "capt": [
+        "captivate",
+        "captures"
+    ],
+    "imag": [
+        "imagination"
+    ],
+    "press": [
+        "express"
+    ],
+    "acro": [
+        "across"
+    ],
+    "pet": [
+        "petals"
+    ],
+    "gar": [
+        "garden"
+    ],
+    "mers": [
+        "summers"
+    ],
+    "ferv": [
+        "fervor"
+    ],
+    "car": [
+        "careers",
+        "carrying"
+    ],
+    "dom": [
+        "wisdom"
+    ],
+    "cycl": [
+        "cyclical"
+    ],
+    "lim": [
+        "limitations"
+    ],
+    "centr": [
+        "central"
+    ],
+    "du": [
+        "dust",
+        "duet",
+        "duets"
+    ],
+    "leg": [
+        "legacy"
+    ],
+    "cept": [
+        "concept"
+    ],
+    "clos": [
+        "close",
+        "closing"
+    ],
+    "cosm": [
+        "cosmic",
+        "cosmos"
+    ],
+    "orn": [
+        "born"
+    ],
+    "part": [
+        "partner",
+        "particles"
+    ],
+    "grav": [
+        "gravitational"
+    ],
+    "ball": [
+        "ballads",
+        "ballet"
+    ],
+    "chor": [
+        "chorus",
+        "choruses"
+    ],
+    "medi": [
+        "medium"
+    ],
+    "ras": [
+        "orchestras"
+    ],
+    "maj": [
+        "majesty",
+        "majestic"
+    ],
+    "rad": [
+        "radiation",
+        "radiant"
+    ],
+    "med": [
+        "performed"
+    ],
+    "fund": [
+        "fundamental"
+    ],
+    "fug": [
+        "fugue"
+    ],
+    "prais": [
+        "praises"
+    ],
+    "lumin": [
+        "luminous"
+    ],
+    "gen": [
+        "genesis"
+    ],
+    "clus": [
+        "clusters"
+    ],
+    "forc": [
+        "forces"
+    ],
+    "cant": [
+        "canticle"
+    ],
+    "duct": [
+        "conduct"
+    ],
+    "hypno": [
+        "hypnotic"
+    ],
+    "cert": [
+        "concert"
+    ],
+    "logy": [
+        "eulogy"
+    ],
+    "mur": [
+        "murmurs"
+    ]
+}

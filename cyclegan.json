@@ -1,0 +1,451 @@
+{
+    "mon": [
+        "monet",
+        "monets",
+        "common"
+    ],
+    "hor": [
+        "horsesummerwinterphotomonethorse"
+    ],
+    "imag": [
+        "image",
+        "imagetoimage",
+        "imagenet",
+        "imagine",
+        "images"
+    ],
+    "her": [
+        "higher",
+        "either",
+        "whether",
+        "here",
+        "other",
+        "hertzmann",
+        "further",
+        "rather",
+        "another"
+    ],
+    "ample": [
+        "example",
+        "sample"
+    ],
+    "art": [
+        "artist",
+        "wikiart",
+        "artworks",
+        "artistic"
+    ],
+    "photo": [
+        "problemphoto",
+        "labelphoto",
+        "photographs",
+        "photosmaps",
+        "photolabel",
+        "photograph",
+        "photosfigure",
+        "photolcityscapes",
+        "photos",
+        "paintingphoto",
+        "photoslabel",
+        "versionphoto",
+        "photolabels",
+        "mapphoto",
+        "photomap"
+    ],
+    "act": [
+        "styleabstract"
+    ],
+    "graph": [
+        "graphics"
+    ],
+    "ali": [
+        "biganali",
+        "aligned",
+        "valuesbiganali"
+    ],
+    "man": [
+        "taigman",
+        "many"
+    ],
+    "av": [
+        "available"
+    ],
+    "main": [
+        "domain"
+    ],
+    "di": [
+        "distributed",
+        "did",
+        "discriminators",
+        "discriminate",
+        "direction",
+        "distribution",
+        "differences",
+        "directly",
+        "distinguish",
+        "discriminator",
+        "different",
+        "distinguished"
+    ],
+    "ple": [
+        "simple",
+        "couple",
+        "principle",
+        "multiple"
+    ],
+    "cycl": [
+        "cycleconsistent",
+        "cycle",
+        "cyclegan",
+        "cycleconsistency",
+        "cycleganrgb"
+    ],
+    "fer": [
+        "refer",
+        "buffer",
+        "suffer",
+        "differ",
+        "transfer"
+    ],
+    "ject": [
+        "object",
+        "websiteobject",
+        "project"
+    ],
+    "ment": [
+        "enhancement",
+        "alignment",
+        "implement",
+        "experiment"
+    ],
+    "ag": [
+        "again",
+        "against"
+    ],
+    "dem": [
+        "demonstrate"
+    ],
+    "place": [
+        "placed",
+        "replace"
+    ],
+    "ban": [
+        "bank"
+    ],
+    "fig": [
+        "figuring",
+        "figures",
+        "figure"
+    ],
+    "hav": [
+        "have",
+        "having"
+    ],
+    "doc": [
+        "documented"
+    ],
+    "cris": [
+        "crisp"
+    ],
+    "pon": [
+        "upon"
+    ],
+    "cas": [
+        "cassis",
+        "case",
+        "cases"
+    ],
+    "ev": [
+        "even",
+        "evaluation",
+        "evaluate",
+        "evening",
+        "evaluated",
+        "evaluationpixpix"
+    ],
+    "flat": [
+        "flattened"
+    ],
+    "dynam": [
+        "dynamic"
+    ],
+    "range": [
+        "rangewe"
+    ],
+    "nex": [
+        "next"
+    ],
+    "equ": [
+        "equal",
+        "equation",
+        "equally"
+    ],
+    "cult": [
+        "difficult"
+    ],
+    "optim": [
+        "optimization",
+        "optimize",
+        "optimalgenerative"
+    ],
+    "em": [
+        "embedding",
+        "empirically",
+        "problem",
+        "empirical",
+        "system",
+        "employ"
+    ],
+    "mod": [
+        "mode",
+        "models",
+        "model"
+    ],
+    "fail": [
+        "fails"
+    ],
+    "gress": [
+        "progress"
+    ],
+    "hes": [
+        "patches",
+        "approaches",
+        "matches",
+        "sketches"
+    ],
+    "capt": [
+        "capturing",
+        "capture"
+    ],
+    "char": [
+        "characteristics"
+    ],
+    "orig": [
+        "original",
+        "originally"
+    ],
+    "ply": [
+        "apply"
+    ],
+    "dom": [
+        "random",
+        "domains",
+        "domainimagetoimage"
+    ],
+    "arch": [
+        "architecture",
+        "research",
+        "architectures"
+    ],
+    "ced": [
+        "produced",
+        "induced"
+    ],
+    "plex": [
+        "complex"
+    ],
+    "fact": [
+        "factorizations"
+    ],
+    "base": [
+        "based",
+        "baselines",
+        "baselinescogan"
+    ],
+    "alt": [
+        "although"
+    ],
+    "lev": [
+        "level",
+        "levelas"
+    ],
+    "part": [
+        "particular",
+        "apart",
+        "participants",
+        "particularly"
+    ],
+    "gen": [
+        "generated",
+        "generates",
+        "generality",
+        "generating",
+        "generation",
+        "generalpurpose",
+        "generate",
+        "generator",
+        "generalization",
+        "general",
+        "generative"
+    ],
+    "cent": [
+        "yrecent",
+        "recent"
+    ],
+    "opt": [
+        "adopt"
+    ],
+    "forc": [
+        "forces"
+    ],
+    "not": [
+        "note",
+        "cannot"
+    ],
+    "par": [
+        "parameters",
+        "parametric"
+    ],
+    "idea": [
+        "ideas"
+    ],
+    "mark": [
+        "benchmark",
+        "markov"
+    ],
+    "acro": [
+        "across"
+    ],
+    "cert": [
+        "certain"
+    ],
+    "clos": [
+        "close"
+    ],
+    "metr": [
+        "metrics",
+        "metric"
+    ],
+    "bel": [
+        "label"
+    ],
+    "langu": [
+        "language"
+    ],
+    "hum": [
+        "human",
+        "humorously"
+    ],
+    "mar": [
+        "mark"
+    ],
+    "mot": [
+        "motion"
+    ],
+    "dens": [
+        "dense"
+    ],
+    "form": [
+        "perform",
+        "formulation",
+        "formulationcycle"
+    ],
+    "am": [
+        "amt",
+        "amazon",
+        "gram"
+    ],
+    "matr": [
+        "matrix"
+    ],
+    "fic": [
+        "specific",
+        "taskspecific"
+    ],
+    "du": [
+        "dual",
+        "due"
+    ],
+    "min": [
+        "argmin"
+    ],
+    "press": [
+        "express",
+        "pressing"
+    ],
+    "log": [
+        "logdygzwhere",
+        "eypaaylog"
+    ],
+    "join": [
+        "jointly"
+    ],
+    "arbit": [
+        "arbitrary",
+        "arbitrarilysized"
+    ],
+    "crit": [
+        "critical"
+    ],
+    "cap": [
+        "capacity"
+    ],
+    "apt": [
+        "adapt"
+    ],
+    "neur": [
+        "neural"
+    ],
+    "norm": [
+        "normalization"
+    ],
+    "neg": [
+        "negative"
+    ],
+    "dur": [
+        "during"
+    ],
+    "lat": [
+        "latest",
+        "latent"
+    ],
+    "cit": [
+        "cityscapeswe",
+        "cityscapes",
+        "cityscapeslabelsphotos\u0627sperpixel"
+    ],
+    "aer": [
+        "aerial"
+    ],
+    "fin": [
+        "finding",
+        "find",
+        "finally"
+    ],
+    "brev": [
+        "brevity"
+    ],
+    "cept": [
+        "except"
+    ],
+    "lic": [
+        "public"
+    ],
+    "fund": [
+        "fundametal"
+    ],
+    "pen": [
+        "penalize"
+    ],
+    "ni": [
+        "night"
+    ],
+    "curs": [
+        "incurs"
+    ],
+    "meas": [
+        "measured"
+    ],
+    "rage": [
+        "encourage"
+    ],
+    "fect": [
+        "effect"
+    ],
+    "long": [
+        "longer"
+    ],
+    "cre": [
+        "create"
+    ]
+}
